@@ -1,0 +1,13 @@
+/* @import url('fonts.css'); */
+/* @import url('http://enjzli.testarapeak.com/AppsFonts/fonts.css'); */
+@font-face {
+    font-family: 'smartmanart';
+    src: url('smartman-webfont.woff2') format('woff2'),
+         url('smartman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  font-family: 'smartmanart', Arial;
+}
